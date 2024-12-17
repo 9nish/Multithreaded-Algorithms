@@ -19,7 +19,7 @@ This repository contains the design and implementation of parallel algorithms us
 
 Each algorithm includes:
 - **Serial Implementation**: For correctness verification and baseline performance comparison.
-- **Parallel Implementation**: Designed using multithreading to exploit concurrency.
+- **Parallel Implementation**: Designed using multithreading to exploit parallelism.
 
 ### **Matrix Operations**
 1. **Matrix-Vector Multiplication**  
